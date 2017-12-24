@@ -1,0 +1,13 @@
+.tags{
+	display: block;
+	background-color: white;
+	width: 20em;
+	margin-top: 7em;
+	margin-left: 14em;
+	text-align: center;
+	vertical-align: top;
+}
+
+.tag{
+	display: inline-block;
+}
